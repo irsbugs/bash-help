@@ -1,2 +1,2 @@
 # bash-help
-A python GTK GUI program to provide help for bash commands
+A python GTK3 GUI program to provide help for bash commands
