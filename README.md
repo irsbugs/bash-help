@@ -13,8 +13,8 @@ Gtk3:
 
 Gtk4:
 
-* bash-help-gui-gtk3.py
-* bash-help-gui-gtk3-search.py
+* bash-help-gui-gtk4.py
+* bash-help-gui-gtk4-search.py
 
 PyQt5:
 * bash-help-gui-qt5.py
